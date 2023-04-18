@@ -1,0 +1,4 @@
+variables:
+- team: pipey-shop
+- admin-user: johns2te-admin
+- manager-user: johns2te
